@@ -1,6 +1,6 @@
 # 🤖 HiringDay.ai — The AI Recruiter Built for the Future of Hiring
 
-**Hire smarter and faster with HiringDay.ai — the all-in-one AI recruiter that automates chat and phone interviews, screening, outreach, and applicant tracking.**
+**Hire smarter and faster with HiringDay.ai  the all-in-one AI recruiter that automates chat and phone interviews, screening, outreach, and applicant tracking.**
 
 ---
 
@@ -32,13 +32,13 @@ Interview anyone, anytime — powered by AI.
 No forms, just a friendly AI chat to apply.
 
 ### 🤝 AI Chat Interview
-Let AI chat with candidates for you — assess skills and intent 24×7.
+Let AI chat with candidates for you  assess skills and intent 24×7.
 
 ### 📄 AI Resume Screener
 Scan and rank resumes in seconds using skill and job-fit matching.
 
 ### 🔗 AI Candidate Pipeline
-Track every hire — stage by stage — with visual pipelines and analytics.
+Track every hire  stage by stage  with visual pipelines and analytics.
 
 <img width="1055" height="230" alt="image" src="https://github.com/user-attachments/assets/ea4da767-7411-4d61-86da-734e3a1e5787" />
 
